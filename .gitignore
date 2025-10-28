@@ -1,0 +1,29 @@
+# .gitignore
+# Ignore system files and temporary directories
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data or compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore local data files (optional)
+consumer_complaints.csv
+data/
+results/
+
+# Ignore virtual environments
+venv/
+env/
