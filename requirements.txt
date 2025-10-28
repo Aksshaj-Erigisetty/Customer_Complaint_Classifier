@@ -1,0 +1,8 @@
+# requirements.txt
+# Python dependencies for Customer Complaint Classifier
+
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+textblob==0.18.0
+matplotlib==3.9.2
