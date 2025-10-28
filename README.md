@@ -40,3 +40,15 @@ The primary goals of this project were to:
 
 ## Repository Structure  
 
+```
+
+Complaint_Classifier/
+├── README.md
+├── requirements.txt
+├── Customer_Complaint_Classifier.ipynb
+├── consumer_complaints.csv # Optional (large file)
+├── results/
+│ ├── top_10_categories.png
+│ └── sentiment_distribution.png
+└── .gitignore
+```
